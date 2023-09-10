@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             output += `
             <div>
               <h3>${user.name}</h3>
-              <p>Price: ${user.id}</p>
+              <p>Id: ${user.id}</p>
             </div>
           `;
         });
